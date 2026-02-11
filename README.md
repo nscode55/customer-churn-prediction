@@ -16,3 +16,6 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 ## Workflow
 Data Cleaning → Encoding → Model Training → Evaluation → Model Saving
+
+## Dataset Link:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
